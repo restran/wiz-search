@@ -89,7 +89,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
-pass.txt
+logs/*
 tmp/*
 data/*
 config.py
