@@ -1,0 +1,5 @@
+# -*- coding: utf-8 -*-
+# created by restran on 2019/05/07
+from __future__ import unicode_literals, absolute_import
+
+WIZ_NOTE_PATH = '/Users/your_name/.wiznote/your_account/data'

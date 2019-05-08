@@ -1,0 +1,8 @@
+flask
+mountains
+records
+werkzeug
+beautifulsoup4
+whoosh
+jieba
+future

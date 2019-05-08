@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="zh-hans">
+<head>
+    <meta charset="UTF-8">
+    <title>为知搜</title>
+    <link rel="stylesheet" href="/static/vendors/element-ui/index.css">
+    <link rel="stylesheet" href="/static/css/main.css">
+    <link href="/static/css/fontello.css" rel="stylesheet"/>
+</head>
+
+<body>
+<div id="app" style="display: none" v-show="hasInit">
+    <el-container>
+        <el-header style="padding: 0 0">
+            <div class="header" style="">
+                <h1>
+                    <a href="javascript:" class="nav-logo-small">{{siteName}}</a>
+                </h1>
+            </div>
+        </el-header>
+        <el-main>
+            <div class="main-content">
+                <div v-loading="loading">
+                    <div style="margin: 15px auto; max-width: 800px;">
+                        <el-input placeholder="请输入关键字" v-model="keyword" @keyup.enter.native="search()"
+                                  class="input-with-select">
+                            <el-button slot="append" icon="el-icon-search" @click="search()"></el-button>
+                        </el-input>
+
+                        <div style="margin-top: 18px" class="search-result">
+                            <div v-for="(item, index) in tableData" :key="index" class="search-result-item">
+                                <div>
+                                    <el-link type="primary" :href="'/document/'+item['document_guid']+'/'+item['wiz_version']+'/'" target="_blank"
+                                             style="font-size: 16px" v-text="item['title']"></el-link>
+                                </div>
+                                <div style="font-size: 14px; color: #666;margin-bottom: 5px">
+                                    <span v-text="item['dt_created'] > item['dt_modified'] ? item['dt_created']: item['dt_modified']"></span>
+                                    <span v-text="item['document_location']" style="margin-left: 5px"></span>
+                                </div>
+                                <div v-html="item['highlights']"
+                                     style="word-break: break-all;color: #666;font-size: 14px"></div>
+                            </div>
+                        </div>
+
+                        <div class="pagination" v-show="total > pageSize" style="text-align: center; margin: 0 auto">
+                            <el-pagination
+                                    background
+                                    @current-change="handleCurrentChange"
+                                    :current-page="currentPage"
+                                    :page-size="pageSize"
+                                    layout="prev, pager, next"
+                                    :total="total">
+                            </el-pagination>
+                        </div>
+
+                        <div v-show="hasSearch && total <= 0 && !loading" style="text-align: center; margin: 20px auto">
+                            <span style="color: #e6a23c;padding: 8px 30px;border-radius: 4px;">未搜索到数据</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </el-main>
+        <el-footer style="margin: 20px auto">
+            <p>&copy; 2019 <span class="icon-code"></span> with <span class="icon-heart heart"></span> by restran</p>
+        </el-footer>
+    </el-container>
+</div>
+
+<script src="/static/vendors/vue.min.js"></script>
+<script src="/static/vendors/axios.min.js"></script>
+<script src="/static/vendors/element-ui/index.js"></script>
+<script src="/static/vendors/vue-progressbar.js"></script>
+<script src="/static/js/main.js"></script>
+</body>

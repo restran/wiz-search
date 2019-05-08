@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2018 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="heart" unicode="&#xe800;" d="M500-79q-14 0-25 10l-348 336q-5 5-15 15t-31 37-38 54-30 67-13 77q0 123 71 192t196 70q34 0 70-12t67-33 54-38 42-38q20 20 42 38t54 38 67 33 70 12q125 0 196-70t71-192q0-123-128-251l-347-335q-10-10-25-10z" horiz-adv-x="1000" />
+
+<glyph glyph-name="code" unicode="&#xf121;" d="M344 69l-28-28q-5-5-12-5t-13 5l-260 261q-6 5-6 12t6 13l260 260q5 6 13 6t12-6l28-28q6-5 6-13t-6-12l-219-220 219-219q6-6 6-13t-6-13z m330 596l-208-721q-2-7-9-11t-13-1l-34 9q-8 3-11 9t-2 14l209 720q2 8 8 11t13 2l35-10q7-2 11-9t1-13z m367-363l-260-261q-6-5-13-5t-13 5l-28 28q-5 6-5 13t5 13l219 219-219 220q-5 5-5 12t5 13l28 28q6 6 13 6t13-6l260-260q5-5 5-13t-5-12z" horiz-adv-x="1071.4" />
+</font>
+</defs>
+</svg>

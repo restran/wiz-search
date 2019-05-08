@@ -1,0 +1,1373 @@
+[2019-05-07 09:57:38] WARNING [__main__:75] server is running on 127.0.0.1:5000
+[2019-05-07 09:57:38] INFO [werkzeug:88]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2019-05-07 09:57:56] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 09:57:56] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 09:57:56] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 09:57:56] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 09:57:56] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 09:57:56] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 09:57:56] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 09:57:56] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 09:57:56] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 09:57:56] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 09:57:56] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 09:57:56] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 09:57:56] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 09:57:56] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 09:57:56] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 09:57:56] "[33mGET /api/game-status?_t=0.7268679423219675 HTTP/1.1[0m" 404 -
+[2019-05-07 09:57:56] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 09:57:56] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 09:57:56] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 09:57:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2019-05-07 09:57:59] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 09:57:59] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 09:59:26] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 09:59:26] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 09:59:26] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 09:59:26] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 09:59:26] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 09:59:26] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 09:59:26] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 09:59:26] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 09:59:26] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 09:59:26] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 09:59:26] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 09:59:26] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 09:59:26] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 09:59:26] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 09:59:26] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 09:59:26] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 09:59:26] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 09:59:26] "[33mGET /api/game-status?_t=0.9041366891633418 HTTP/1.1[0m" 404 -
+[2019-05-07 09:59:26] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 09:59:26] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 10:00:02] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:00:02] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 10:00:02] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:00:02] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 10:00:02] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:00:02] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 10:00:02] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:00:02] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 10:00:02] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:00:02] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 10:00:02] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:00:02] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 10:00:02] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:00:02] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 10:00:02] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:00:02] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 10:00:03] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:00:03] "[33mGET /api/game-status?_t=0.6504715151448421 HTTP/1.1[0m" 404 -
+[2019-05-07 10:00:03] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:00:03] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 10:00:46] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:00:46] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 10:00:47] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:00:47] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 10:00:47] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:00:47] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 10:00:47] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:00:47] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 10:00:47] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:00:47] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 10:00:47] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:00:47] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 10:00:47] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:00:47] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 10:00:47] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:00:47] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 10:00:47] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:00:47] "[33mGET /api/game-status?_t=0.6506232397306035 HTTP/1.1[0m" 404 -
+[2019-05-07 10:00:47] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:00:47] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 10:00:48] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:00:48] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 10:00:48] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:00:48] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 10:00:48] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:00:48] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 10:00:48] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:00:48] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 10:00:48] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:00:48] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 10:00:48] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:00:48] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 10:00:48] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:00:48] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 10:00:48] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:00:48] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 10:00:48] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:00:48] "[33mGET /api/game-status?_t=0.6622620754934074 HTTP/1.1[0m" 404 -
+[2019-05-07 10:00:48] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:00:48] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 10:03:45] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:03:45] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 10:03:45] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:03:45] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 10:03:45] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:03:45] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 10:03:45] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:03:45] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 10:03:45] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:03:45] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 10:03:45] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:03:45] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 10:03:45] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:03:45] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 10:03:45] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:03:45] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 10:03:45] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:03:45] "[33mGET /api/game-status?_t=0.7122622630870625 HTTP/1.1[0m" 404 -
+[2019-05-07 10:03:45] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 10:03:45] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 14:41:52] WARNING [__main__:75] server is running on 127.0.0.1:5000
+[2019-05-07 14:41:52] INFO [werkzeug:88]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2019-05-07 14:41:52] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-07 14:41:53] WARNING [__main__:75] server is running on 127.0.0.1:5000
+[2019-05-07 14:41:53] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-07 14:41:53] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-07 14:42:44] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:42:44] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 14:42:44] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:42:44] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 14:42:44] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:42:44] "[33mGET /api/game-status?_t=0.3897690010207764 HTTP/1.1[0m" 404 -
+[2019-05-07 14:43:04] WARNING [__main__:75] server is running on 127.0.0.1:5000
+[2019-05-07 14:43:04] INFO [werkzeug:88]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2019-05-07 14:43:04] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-07 14:43:05] WARNING [__main__:75] server is running on 127.0.0.1:5000
+[2019-05-07 14:43:05] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-07 14:43:05] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-07 14:43:05] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:43:05] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 14:43:05] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:43:05] "[33mGET /api/game-status?_t=0.3473597684260308 HTTP/1.1[0m" 404 -
+[2019-05-07 14:43:07] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:43:07] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 14:43:07] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:43:07] "[33mGET /api/game-status?_t=0.24732342010504915 HTTP/1.1[0m" 404 -
+[2019-05-07 14:43:08] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:43:08] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 14:43:08] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:43:08] "[33mGET /api/game-status?_t=0.573733530748832 HTTP/1.1[0m" 404 -
+[2019-05-07 14:43:12] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:43:12] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 14:44:09] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:44:09] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 14:44:09] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:44:09] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 14:44:09] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:44:09] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 14:44:09] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:44:09] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 14:44:09] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:44:09] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 14:44:09] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:44:09] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 14:44:09] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:44:09] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 14:44:09] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:44:09] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 14:44:09] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:44:09] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 14:44:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:44:29] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 14:44:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:44:29] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 14:44:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:44:29] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 14:44:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:44:29] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 14:44:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:44:29] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 14:44:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:44:29] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 14:44:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:44:29] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 14:44:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:44:29] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 14:44:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:44:29] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 14:46:50] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:46:50] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 14:46:50] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:46:50] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 14:46:50] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:46:50] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 14:46:50] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:46:50] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 14:46:50] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:46:50] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 14:46:50] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:46:50] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 14:46:50] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:46:50] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 14:46:50] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:46:50] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 14:46:50] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:46:50] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 14:48:21] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:48:21] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 14:48:21] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:48:21] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 14:48:21] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:48:21] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 14:48:21] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:48:21] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 14:48:21] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:48:21] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 14:48:21] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:48:21] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 14:48:21] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:48:21] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 14:48:21] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:48:21] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 14:48:21] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:48:21] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 14:48:21] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:48:21] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 14:48:21] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 14:48:21] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 15:21:32] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:21:32] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 15:21:32] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:21:32] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:21:32] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:21:32] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:21:32] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:21:32] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:21:32] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:21:32] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:21:32] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:21:32] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:21:32] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:21:32] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:21:32] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:21:32] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:21:32] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:21:32] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:21:32] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:21:32] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 15:21:33] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:21:33] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 15:21:33] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:21:33] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:21:33] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:21:33] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:21:33] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:21:33] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:21:33] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:21:33] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:21:33] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:21:33] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:21:33] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:21:33] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:21:33] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:21:33] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:21:33] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:21:33] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:21:33] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:21:33] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 15:21:51] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:21:51] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 15:21:51] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:21:51] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:21:51] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:21:51] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:21:51] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:21:51] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:21:51] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:21:51] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:21:51] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:21:51] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:21:51] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:21:51] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:21:51] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:21:51] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:21:51] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:21:51] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:21:51] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:21:51] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 15:22:04] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:22:04] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 15:22:04] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:22:04] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:22:04] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:22:04] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:22:04] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:22:04] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:22:04] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:22:04] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:22:04] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:22:04] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:22:04] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:22:04] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:22:04] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:22:04] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:22:04] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:22:04] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:22:04] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:22:04] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 15:22:33] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:22:33] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 15:22:33] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:22:33] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:22:33] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:22:33] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:22:33] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:22:33] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:22:33] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:22:33] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:22:33] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:22:33] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:22:33] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:22:33] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:22:33] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:22:33] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:22:33] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:22:33] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:22:33] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:22:33] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 15:22:43] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:22:43] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 15:22:43] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:22:43] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:22:43] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:22:43] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:22:43] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:22:43] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:22:43] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:22:43] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:22:43] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:22:43] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:22:43] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:22:43] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:22:43] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:22:43] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:22:43] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:22:43] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:22:43] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:22:43] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 15:23:26] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:23:26] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 15:23:26] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:23:26] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:23:26] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:23:26] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:23:26] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:23:26] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:23:26] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:23:26] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:23:26] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:23:26] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:23:26] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:23:26] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:23:26] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:23:26] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:23:26] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:23:26] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:23:26] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:23:26] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 15:23:26] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:23:26] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 15:23:26] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:23:26] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 15:24:14] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:24:14] "[33mGET /api/game-status?_t=0.8506291392957432 HTTP/1.1[0m" 404 -
+[2019-05-07 15:27:31] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:27:31] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 15:27:31] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:27:31] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:27:31] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:27:31] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:27:31] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:27:31] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:27:31] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:27:31] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:27:31] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:27:31] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:27:31] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:27:31] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:27:31] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:27:31] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:27:31] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:27:31] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:27:31] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:27:31] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 15:27:31] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:27:31] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 15:27:31] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:27:31] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 15:27:33] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:27:33] "[33mGET /api/game-status?_t=0.23534648245259193 HTTP/1.1[0m" 404 -
+[2019-05-07 15:29:15] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:29:15] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 15:29:15] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:29:15] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:29:15] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:29:15] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:29:15] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:29:15] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:29:15] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:29:15] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:29:15] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:29:15] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:29:15] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:29:15] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:29:15] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:29:15] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:29:15] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:29:15] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:29:15] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:29:15] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 15:29:16] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:29:16] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 15:29:16] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:29:16] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 15:31:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:31:29] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 15:31:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:31:29] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:31:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:31:29] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:31:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:31:29] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:31:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:31:29] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:31:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:31:29] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:31:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:31:29] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:31:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:31:29] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:31:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:31:29] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:31:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:31:29] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 15:31:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:31:29] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 15:31:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:31:29] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 15:34:03] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:34:03] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 15:34:03] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:34:03] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:34:03] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:34:03] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:34:03] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:34:03] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:34:03] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:34:03] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:34:03] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:34:03] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:34:03] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:34:03] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:34:03] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:34:03] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:34:03] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:34:03] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:34:03] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:34:03] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 15:34:03] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:34:03] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 15:34:03] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:34:03] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 15:34:20] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:34:20] "[33mGET /api/game-status?_t=0.5812442376364204 HTTP/1.1[0m" 404 -
+[2019-05-07 15:35:09] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:35:09] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 15:35:09] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:35:09] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:35:09] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:35:09] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:35:09] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:35:09] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:35:09] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:35:09] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:35:09] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:35:09] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:35:09] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:35:09] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:35:09] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:35:09] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:35:09] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:35:09] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:35:09] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:35:09] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 15:35:09] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:35:09] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 15:35:09] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:35:09] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 15:35:11] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:35:11] "[33mGET /api/game-status?_t=0.3807375722421604 HTTP/1.1[0m" 404 -
+[2019-05-07 15:35:25] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:35:25] "[33mGET /api/game-status?_t=0.2673977772643641 HTTP/1.1[0m" 404 -
+[2019-05-07 15:38:58] INFO [werkzeug:88]  * Detected change in '/Users/restran/Dropbox/Python/note_search/app.py', reloading
+[2019-05-07 15:38:58] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-07 15:40:36] WARNING [__main__:83] server is running on 127.0.0.1:5000
+[2019-05-07 15:40:36] INFO [werkzeug:88]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2019-05-07 15:40:36] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-07 15:40:38] WARNING [__main__:83] server is running on 127.0.0.1:5000
+[2019-05-07 15:40:38] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-07 15:40:38] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-07 15:40:39] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:40:39] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 15:40:39] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:40:39] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:40:39] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:40:39] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:40:39] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:40:39] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 15:40:39] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:40:39] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:40:39] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:40:39] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:40:39] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:40:39] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:40:39] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:40:39] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:40:39] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:40:39] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 15:40:39] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:40:39] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 15:40:39] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:40:39] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 15:40:39] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:40:39] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 15:40:42] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 15:40:42] "[1m[35mGET /api/search?_t=0.6612065965641702 HTTP/1.1[0m" 500 -
+[2019-05-07 15:43:35] WARNING [__main__:83] server is running on 127.0.0.1:5000
+[2019-05-07 15:43:35] INFO [werkzeug:88]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2019-05-07 15:43:35] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-07 15:43:37] WARNING [__main__:83] server is running on 127.0.0.1:5000
+[2019-05-07 15:43:37] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-07 15:43:37] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-07 16:00:35] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:00:35] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 16:00:35] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:00:35] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:00:35] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:00:35] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:00:35] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:00:35] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:00:35] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:00:35] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:00:35] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:00:35] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:00:35] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:00:35] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:00:35] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:00:35] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:00:35] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:00:35] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:00:36] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:00:36] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 16:00:36] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:00:36] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 16:00:36] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:00:36] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 16:00:38] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:00:38] "[1m[31mPOST /api/search?_t=0.21955348561014 HTTP/1.1[0m" 405 -
+[2019-05-07 16:01:02] INFO [werkzeug:88]  * Detected change in '/Users/restran/Dropbox/Python/note_search/app.py', reloading
+[2019-05-07 16:01:02] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-07 16:01:04] WARNING [__main__:83] server is running on 127.0.0.1:5000
+[2019-05-07 16:01:04] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-07 16:01:04] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-07 16:01:05] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:01:05] "[1m[35mPOST /api/search?_t=0.7585568915017098 HTTP/1.1[0m" 500 -
+[2019-05-07 16:01:05] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:01:05] "[1m[35mPOST /api/search?_t=0.40377803023490766 HTTP/1.1[0m" 500 -
+[2019-05-07 16:01:40] INFO [werkzeug:88]  * Detected change in '/Users/restran/Dropbox/Python/note_search/app.py', reloading
+[2019-05-07 16:01:40] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-07 16:01:41] WARNING [__main__:84] server is running on 127.0.0.1:5000
+[2019-05-07 16:01:41] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-07 16:01:41] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-07 16:01:56] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:01:56] "[1m[35mPOST /api/search?_t=0.9929804035320156 HTTP/1.1[0m" 500 -
+[2019-05-07 16:02:10] INFO [werkzeug:88]  * Detected change in '/Users/restran/Dropbox/Python/note_search/app.py', reloading
+[2019-05-07 16:02:11] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-07 16:02:12] WARNING [__main__:84] server is running on 127.0.0.1:5000
+[2019-05-07 16:02:12] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-07 16:02:12] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-07 16:02:12] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:02:12] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 16:02:12] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:02:12] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:02:12] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:02:12] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:02:12] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:02:12] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:02:12] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:02:12] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:02:12] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:02:12] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:02:12] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:02:12] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:02:12] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:02:12] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:02:12] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:02:12] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:02:12] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:02:12] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 16:02:12] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:02:12] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 16:02:12] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:02:12] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 16:02:17] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:02:17] "[37mPOST /api/search?_t=0.41064544849937157 HTTP/1.1[0m" 200 -
+[2019-05-07 16:02:51] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:02:51] "[37mPOST /api/search?_t=0.1253190897811849 HTTP/1.1[0m" 200 -
+[2019-05-07 16:11:40] INFO [werkzeug:88]  * Detected change in '/Users/restran/Dropbox/Python/note_search/index.py', reloading
+[2019-05-07 16:11:40] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-07 16:11:42] WARNING [__main__:84] server is running on 127.0.0.1:5000
+[2019-05-07 16:11:42] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-07 16:11:42] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-07 16:11:43] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:11:43] "[37mPOST /api/search?_t=0.1868329527215613 HTTP/1.1[0m" 200 -
+[2019-05-07 16:14:30] INFO [werkzeug:88]  * Detected change in '/Users/restran/Dropbox/Python/note_search/index.py', reloading
+[2019-05-07 16:14:31] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-07 16:14:32] WARNING [__main__:84] server is running on 127.0.0.1:5000
+[2019-05-07 16:14:32] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-07 16:14:32] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-07 16:14:58] INFO [werkzeug:88]  * Detected change in '/Users/restran/Dropbox/Python/note_search/index.py', reloading
+[2019-05-07 16:14:58] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-07 16:15:00] WARNING [__main__:84] server is running on 127.0.0.1:5000
+[2019-05-07 16:15:00] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-07 16:15:00] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-07 16:16:06] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:16:06] "[37mPOST /api/search?_t=0.6749522253104279 HTTP/1.1[0m" 200 -
+[2019-05-07 16:17:00] INFO [werkzeug:88]  * Detected change in '/Users/restran/Dropbox/Python/note_search/app.py', reloading
+[2019-05-07 16:17:00] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-07 16:17:02] WARNING [__main__:84] server is running on 127.0.0.1:5000
+[2019-05-07 16:17:02] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-07 16:17:02] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-07 16:17:02] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:17:02] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 16:17:02] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:17:02] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:17:02] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:17:02] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:17:02] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:17:02] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:17:02] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:17:02] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:17:02] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:17:02] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:17:02] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:17:02] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:17:02] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:17:02] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:17:02] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:17:02] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:17:02] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:17:02] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 16:17:02] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:17:02] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 16:17:02] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:17:02] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 16:17:06] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:17:06] "[1m[35mPOST /api/search?_t=0.40577651380058666 HTTP/1.1[0m" 500 -
+[2019-05-07 16:17:42] INFO [werkzeug:88]  * Detected change in '/Users/restran/Dropbox/Python/note_search/app.py', reloading
+[2019-05-07 16:17:42] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-07 16:17:52] WARNING [__main__:84] server is running on 127.0.0.1:5000
+[2019-05-07 16:17:52] INFO [werkzeug:88]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2019-05-07 16:17:52] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-07 16:17:53] WARNING [__main__:84] server is running on 127.0.0.1:5000
+[2019-05-07 16:17:53] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-07 16:17:53] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-07 16:17:55] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:17:55] "[37mPOST /api/search?_t=0.17317467796031827 HTTP/1.1[0m" 200 -
+[2019-05-07 16:18:15] WARNING [__main__:84] server is running on 127.0.0.1:5000
+[2019-05-07 16:18:15] INFO [werkzeug:88]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2019-05-07 16:18:15] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-07 16:18:16] WARNING [__main__:84] server is running on 127.0.0.1:5000
+[2019-05-07 16:18:16] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-07 16:18:16] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-07 16:18:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:18:29] "[37mPOST /api/search?_t=0.35770214356249985 HTTP/1.1[0m" 200 -
+[2019-05-07 16:18:36] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:18:36] "[37mPOST /api/search?_t=0.5553433866838506 HTTP/1.1[0m" 200 -
+[2019-05-07 16:21:03] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:21:03] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 16:21:03] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:21:03] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:21:03] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:21:03] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:21:03] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:21:03] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:21:03] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:21:03] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:21:03] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:21:03] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:21:03] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:21:03] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:21:03] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:21:03] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:21:03] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:21:03] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:21:03] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:21:03] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 16:21:03] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:21:03] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 16:21:03] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:21:03] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 16:21:06] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:21:06] "[37mPOST /api/search?_t=0.5246615508610544 HTTP/1.1[0m" 200 -
+[2019-05-07 16:22:24] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:22:24] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 16:22:24] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:22:24] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:22:24] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:22:24] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:22:24] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:22:24] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:22:24] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:22:24] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:22:24] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:22:24] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:22:24] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:22:24] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:22:24] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:22:24] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:22:24] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:22:24] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:22:24] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:22:24] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 16:22:24] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:22:24] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 16:22:24] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:22:24] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 16:22:26] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:22:26] "[37mPOST /api/search?_t=0.12601040113910966 HTTP/1.1[0m" 200 -
+[2019-05-07 16:22:42] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:22:42] "[37mPOST /api/search?_t=0.2795059356430609 HTTP/1.1[0m" 200 -
+[2019-05-07 16:22:43] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:22:43] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 16:22:43] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:22:43] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:22:43] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:22:43] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:22:43] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:22:43] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:22:43] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:22:43] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:22:43] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:22:43] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:22:43] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:22:43] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:22:43] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:22:43] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:22:43] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:22:43] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:22:43] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:22:43] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 16:22:43] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:22:43] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 16:22:43] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:22:43] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 16:22:45] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:22:45] "[37mPOST /api/search?_t=0.6711935569778471 HTTP/1.1[0m" 200 -
+[2019-05-07 16:24:19] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:24:19] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 16:24:19] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:24:19] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:24:19] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:24:19] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:24:19] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:24:19] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:24:19] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:24:19] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:24:19] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:24:19] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:24:19] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:24:19] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:24:19] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:24:19] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:24:19] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:24:19] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:24:19] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:24:19] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 16:24:19] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:24:19] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 16:24:19] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:24:19] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 16:24:22] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:24:22] "[37mPOST /api/search?_t=0.024443270809809237 HTTP/1.1[0m" 200 -
+[2019-05-07 16:33:08] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:08] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 16:33:08] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:08] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:33:08] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:08] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:33:08] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:08] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:33:08] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:08] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:33:08] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:08] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:33:08] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:08] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:33:08] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:08] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:33:08] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:08] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:33:08] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:08] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 16:33:08] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:08] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 16:33:08] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:08] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 16:33:11] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:11] "[37mPOST /api/search?_t=0.39042824119645125 HTTP/1.1[0m" 200 -
+[2019-05-07 16:33:15] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:15] "[37mPOST /api/search?_t=0.7490199626027254 HTTP/1.1[0m" 200 -
+[2019-05-07 16:33:16] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:16] "[37mPOST /api/search?_t=0.35853249184669056 HTTP/1.1[0m" 200 -
+[2019-05-07 16:33:17] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:17] "[37mPOST /api/search?_t=0.5628089254664734 HTTP/1.1[0m" 200 -
+[2019-05-07 16:33:17] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:17] "[37mPOST /api/search?_t=0.5719818294491332 HTTP/1.1[0m" 200 -
+[2019-05-07 16:33:17] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:17] "[37mPOST /api/search?_t=0.7864123336822275 HTTP/1.1[0m" 200 -
+[2019-05-07 16:33:43] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:43] "[37mPOST /api/search?_t=0.24310009415208533 HTTP/1.1[0m" 200 -
+[2019-05-07 16:33:44] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:44] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 16:33:44] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:44] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:33:44] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:44] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:33:44] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:44] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:33:44] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:44] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:33:44] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:44] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:33:44] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:44] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:33:44] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:44] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:33:44] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:44] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:33:44] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:44] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 16:33:44] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:44] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 16:33:44] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:44] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 16:33:46] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:46] "[37mPOST /api/search?_t=0.49361388832384967 HTTP/1.1[0m" 200 -
+[2019-05-07 16:33:55] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:33:55] "[37mPOST /api/search?_t=0.4715743591465116 HTTP/1.1[0m" 200 -
+[2019-05-07 16:34:32] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:34:32] "[37mPOST /api/search?_t=0.7624205079803006 HTTP/1.1[0m" 200 -
+[2019-05-07 16:34:34] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:34:34] "[37mPOST /api/search?_t=0.6200629645769229 HTTP/1.1[0m" 200 -
+[2019-05-07 16:34:35] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:34:35] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 16:34:35] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:34:35] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:34:35] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:34:35] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:34:35] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:34:35] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:34:35] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:34:35] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:34:35] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:34:35] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:34:35] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:34:35] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:34:35] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:34:35] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:34:35] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:34:35] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:34:35] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:34:35] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 16:34:35] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:34:35] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 16:34:35] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:34:35] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 16:34:37] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:34:37] "[37mPOST /api/search?_t=0.6609815181047969 HTTP/1.1[0m" 200 -
+[2019-05-07 16:35:27] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:35:27] "[37mPOST /api/search?_t=0.24427234240800355 HTTP/1.1[0m" 200 -
+[2019-05-07 16:35:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:35:29] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 16:35:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:35:29] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:35:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:35:29] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:35:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:35:29] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:35:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:35:29] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:35:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:35:29] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:35:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:35:29] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:35:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:35:29] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:35:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:35:29] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:35:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:35:29] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 16:35:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:35:29] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 16:35:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:35:29] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 16:35:31] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:35:31] "[37mPOST /api/search?_t=0.7934580276790493 HTTP/1.1[0m" 200 -
+[2019-05-07 16:35:33] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:35:33] "[37mPOST /api/search?_t=0.8245067436441993 HTTP/1.1[0m" 200 -
+[2019-05-07 16:35:38] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:35:38] "[37mPOST /api/search?_t=0.9404828441069593 HTTP/1.1[0m" 200 -
+[2019-05-07 16:37:12] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:37:12] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 16:37:12] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:37:12] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:37:12] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:37:12] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:37:12] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:37:12] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:37:12] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:37:12] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:37:12] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:37:12] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:37:12] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:37:12] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:37:12] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:37:12] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:37:12] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:37:12] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:37:12] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:37:12] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 16:37:12] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:37:12] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 16:37:12] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:37:12] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 16:37:15] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:37:15] "[37mPOST /api/search?_t=0.8589125345737778 HTTP/1.1[0m" 200 -
+[2019-05-07 16:37:34] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:37:34] "[37mPOST /api/search?_t=0.755725304403768 HTTP/1.1[0m" 200 -
+[2019-05-07 16:38:39] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:38:39] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 16:38:39] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:38:39] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:38:39] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:38:39] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:38:39] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:38:39] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:38:39] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:38:39] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:38:39] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:38:39] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:38:39] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:38:39] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:38:39] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:38:39] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:38:39] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:38:39] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:38:39] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:38:39] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 16:38:40] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:38:40] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 16:38:40] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:38:40] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 16:38:41] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:38:41] "[37mPOST /api/search?_t=0.7959951590992704 HTTP/1.1[0m" 200 -
+[2019-05-07 16:39:32] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:39:32] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 16:39:36] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:39:36] "[37mPOST /api/search?_t=0.09794778539276505 HTTP/1.1[0m" 200 -
+[2019-05-07 16:40:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:40:29] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 16:40:32] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:40:32] "[37mPOST /api/search?_t=0.5218391043684858 HTTP/1.1[0m" 200 -
+[2019-05-07 16:41:16] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:41:16] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 16:41:19] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:41:19] "[37mPOST /api/search?_t=0.05391253963744713 HTTP/1.1[0m" 200 -
+[2019-05-07 16:41:25] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:41:25] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 16:41:31] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:41:31] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 16:41:31] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:41:31] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:41:31] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:41:31] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:41:31] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:41:31] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:41:31] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:41:31] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:41:31] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:41:31] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:41:31] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:41:31] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:41:31] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:41:31] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:41:31] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:41:31] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:41:31] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:41:31] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 16:41:31] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:41:31] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 16:41:31] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:41:31] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 16:41:33] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:41:33] "[37mPOST /api/search?_t=0.4077670726196627 HTTP/1.1[0m" 200 -
+[2019-05-07 16:42:11] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:42:11] "[37mPOST /api/search?_t=0.9725944447217392 HTTP/1.1[0m" 200 -
+[2019-05-07 16:43:08] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:43:08] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 16:43:08] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:43:08] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:43:08] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:43:08] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:43:08] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:43:08] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:43:08] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:43:08] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:43:08] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:43:08] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:43:08] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:43:08] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:43:08] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:43:08] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:43:08] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:43:08] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:43:08] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:43:08] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 16:43:08] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:43:08] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 16:43:08] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:43:08] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 16:43:12] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:43:12] "[37mPOST /api/search?_t=0.394775837099852 HTTP/1.1[0m" 200 -
+[2019-05-07 16:43:41] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:43:41] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 16:43:41] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:43:41] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:43:41] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:43:41] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:43:41] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:43:41] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:43:41] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:43:41] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:43:41] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:43:41] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:43:41] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:43:41] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:43:41] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:43:41] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:43:41] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:43:41] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:43:41] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:43:41] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 16:43:41] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:43:41] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 16:43:41] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:43:41] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 16:43:43] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:43:43] "[37mPOST /api/search?_t=0.8686963376971291 HTTP/1.1[0m" 200 -
+[2019-05-07 16:45:42] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:45:42] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 16:45:44] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:45:44] "[37mPOST /api/search?_t=0.6613816897969769 HTTP/1.1[0m" 200 -
+[2019-05-07 16:45:51] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:45:51] "[37mPOST /api/search?_t=0.7384512308421916 HTTP/1.1[0m" 200 -
+[2019-05-07 16:46:57] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:46:57] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 16:46:59] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:46:59] "[37mPOST /api/search?_t=0.9754228759003956 HTTP/1.1[0m" 200 -
+[2019-05-07 16:47:03] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:47:03] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 16:47:05] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:47:05] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 16:47:07] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:47:07] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 16:47:07] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:47:07] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:47:07] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:47:07] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:47:07] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:47:07] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:47:07] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:47:07] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:47:07] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:47:07] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:47:07] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:47:07] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:47:07] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:47:07] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:47:07] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:47:07] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:47:07] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:47:07] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 16:47:07] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:47:07] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 16:47:07] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:47:07] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 16:47:09] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:47:09] "[37mPOST /api/search?_t=0.3750300254392467 HTTP/1.1[0m" 200 -
+[2019-05-07 16:47:21] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:47:21] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 16:47:21] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:47:21] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:47:21] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:47:21] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:47:21] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:47:21] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:47:21] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:47:21] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:47:21] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:47:21] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:47:21] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:47:21] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:47:21] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:47:21] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:47:21] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:47:21] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:47:21] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:47:21] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 16:47:22] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:47:22] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 16:47:22] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:47:22] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 16:47:26] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:47:26] "[37mPOST /api/search?_t=0.947542505039388 HTTP/1.1[0m" 200 -
+[2019-05-07 16:47:39] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:47:39] "[37mPOST /api/search?_t=0.2695115901672853 HTTP/1.1[0m" 200 -
+[2019-05-07 16:49:05] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:49:05] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 16:49:05] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:49:05] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:49:05] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:49:05] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:49:05] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:49:05] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:49:05] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:49:05] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 16:49:05] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:49:05] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:49:05] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:49:05] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:49:05] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:49:05] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:49:05] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:49:05] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 16:49:05] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:49:05] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 16:49:05] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:49:05] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 16:49:05] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:49:05] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 16:49:10] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:49:10] "[37mPOST /api/search?_t=0.42346447278974875 HTTP/1.1[0m" 200 -
+[2019-05-07 16:49:51] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:49:51] "[37mPOST /api/search?_t=0.36834941441713265 HTTP/1.1[0m" 200 -
+[2019-05-07 16:51:53] INFO [werkzeug:88]  * Detected change in '/Users/restran/Dropbox/Python/note_search/index.py', reloading
+[2019-05-07 16:51:53] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-07 16:51:55] WARNING [__main__:84] server is running on 127.0.0.1:5000
+[2019-05-07 16:51:55] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-07 16:51:55] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-07 16:53:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:53:29] "[37mPOST /api/search?_t=0.9473021927523451 HTTP/1.1[0m" 200 -
+[2019-05-07 16:55:03] INFO [werkzeug:88]  * Detected change in '/Users/restran/Dropbox/Python/note_search/index.py', reloading
+[2019-05-07 16:55:03] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-07 16:55:05] WARNING [__main__:84] server is running on 127.0.0.1:5000
+[2019-05-07 16:55:05] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-07 16:55:05] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-07 16:58:13] WARNING [__main__:84] server is running on 127.0.0.1:5000
+[2019-05-07 16:58:13] INFO [werkzeug:88]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2019-05-07 16:58:13] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-07 16:58:14] WARNING [__main__:84] server is running on 127.0.0.1:5000
+[2019-05-07 16:58:14] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-07 16:58:14] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-07 16:58:17] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:58:17] "[37mPOST /api/search?_t=0.9497716873487065 HTTP/1.1[0m" 200 -
+[2019-05-07 16:58:24] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 16:58:24] "[37mPOST /api/search?_t=0.5446769645380609 HTTP/1.1[0m" 200 -
+[2019-05-07 17:00:11] INFO [werkzeug:88]  * Detected change in '/Users/restran/Dropbox/Python/note_search/index.py', reloading
+[2019-05-07 17:00:11] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-07 17:00:13] WARNING [__main__:84] server is running on 127.0.0.1:5000
+[2019-05-07 17:00:13] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-07 17:00:13] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-07 17:00:31] INFO [werkzeug:88]  * Detected change in '/Users/restran/Dropbox/Python/note_search/index.py', reloading
+[2019-05-07 17:00:32] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-07 17:00:33] WARNING [__main__:84] server is running on 127.0.0.1:5000
+[2019-05-07 17:00:33] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-07 17:00:33] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-07 17:00:34] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:00:34] "[1m[35mPOST /api/search?_t=0.23385086822660495 HTTP/1.1[0m" 500 -
+[2019-05-07 17:01:05] INFO [werkzeug:88]  * Detected change in '/Users/restran/Dropbox/Python/note_search/index.py', reloading
+[2019-05-07 17:01:05] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-07 17:01:07] WARNING [__main__:84] server is running on 127.0.0.1:5000
+[2019-05-07 17:01:07] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-07 17:01:07] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-07 17:01:10] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:01:10] "[37mPOST /api/search?_t=0.39445064416345876 HTTP/1.1[0m" 200 -
+[2019-05-07 17:01:18] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:01:18] "[37mPOST /api/search?_t=0.4665440508548566 HTTP/1.1[0m" 200 -
+[2019-05-07 17:01:27] INFO [werkzeug:88]  * Detected change in '/Users/restran/Dropbox/Python/note_search/index.py', reloading
+[2019-05-07 17:01:27] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-07 17:01:29] WARNING [__main__:84] server is running on 127.0.0.1:5000
+[2019-05-07 17:01:29] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-07 17:01:29] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-07 17:01:31] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:01:31] "[37mPOST /api/search?_t=0.29466418595038557 HTTP/1.1[0m" 200 -
+[2019-05-07 17:01:55] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:01:55] "[37mPOST /api/search?_t=0.7907438233637769 HTTP/1.1[0m" 200 -
+[2019-05-07 17:02:02] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:02:02] "[37mPOST /api/search?_t=0.6637650918818403 HTTP/1.1[0m" 200 -
+[2019-05-07 17:07:17] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:07:17] "[37mPOST /api/search?_t=0.980616282924923 HTTP/1.1[0m" 200 -
+[2019-05-07 17:07:28] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:07:28] "[37mPOST /api/search?_t=0.041869681479458576 HTTP/1.1[0m" 200 -
+[2019-05-07 17:07:40] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:07:40] "[37mPOST /api/search?_t=0.6574600161719097 HTTP/1.1[0m" 200 -
+[2019-05-07 17:07:52] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:07:52] "[37mPOST /api/search?_t=0.8690876348489642 HTTP/1.1[0m" 200 -
+[2019-05-07 17:08:07] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:08:07] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 17:08:41] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:08:41] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 17:10:16] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:10:16] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 17:10:20] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:10:20] "[37mPOST /api/search?_t=0.4414291803274113 HTTP/1.1[0m" 200 -
+[2019-05-07 17:10:24] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:10:24] "[37mPOST /api/search?_t=0.26784237918302134 HTTP/1.1[0m" 200 -
+[2019-05-07 17:10:47] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:10:47] "[37mPOST /api/search?_t=0.17056442714754727 HTTP/1.1[0m" 200 -
+[2019-05-07 17:14:19] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:14:19] "[37mPOST /api/search?_t=0.7414196519945866 HTTP/1.1[0m" 200 -
+[2019-05-07 17:14:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:14:29] "[37mPOST /api/search?_t=0.5118740896829526 HTTP/1.1[0m" 200 -
+[2019-05-07 17:14:30] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:14:30] "[37mPOST /api/search?_t=0.8286501070942129 HTTP/1.1[0m" 200 -
+[2019-05-07 17:16:14] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:16:14] "[37mPOST /api/search?_t=0.9829573242668275 HTTP/1.1[0m" 200 -
+[2019-05-07 17:16:19] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:16:19] "[37mPOST /api/search?_t=0.7347427101802873 HTTP/1.1[0m" 200 -
+[2019-05-07 17:16:33] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:16:33] "[37mPOST /api/search?_t=0.17305414935693864 HTTP/1.1[0m" 200 -
+[2019-05-07 17:17:08] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:17:08] "[37mPOST /api/search?_t=0.7272424895664322 HTTP/1.1[0m" 200 -
+[2019-05-07 17:17:40] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:17:40] "[37mPOST /api/search?_t=0.6003878190287644 HTTP/1.1[0m" 200 -
+[2019-05-07 17:17:43] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:17:43] "[37mPOST /api/search?_t=0.93641779392526 HTTP/1.1[0m" 200 -
+[2019-05-07 17:17:46] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:17:46] "[37mPOST /api/search?_t=0.9263181216829504 HTTP/1.1[0m" 200 -
+[2019-05-07 17:18:57] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:18:57] "[37mPOST /api/search?_t=0.8047139405307906 HTTP/1.1[0m" 200 -
+[2019-05-07 17:19:01] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:19:01] "[37mPOST /api/search?_t=0.31055383972660744 HTTP/1.1[0m" 200 -
+[2019-05-07 17:19:03] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:19:03] "[37mPOST /api/search?_t=0.6477977206661609 HTTP/1.1[0m" 200 -
+[2019-05-07 17:19:17] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:19:17] "[37mPOST /api/search?_t=0.44642789295001695 HTTP/1.1[0m" 200 -
+[2019-05-07 17:19:28] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:19:28] "[37mPOST /api/search?_t=0.8556517421177339 HTTP/1.1[0m" 200 -
+[2019-05-07 17:20:26] INFO [werkzeug:88]  * Detected change in '/Users/restran/Dropbox/Python/note_search/index.py', reloading
+[2019-05-07 17:20:26] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-07 17:20:28] WARNING [__main__:84] server is running on 127.0.0.1:5000
+[2019-05-07 17:20:28] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-07 17:20:28] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-07 17:20:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:20:29] "[37mPOST /api/search?_t=0.3068613893351855 HTTP/1.1[0m" 200 -
+[2019-05-07 17:20:46] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:20:46] "[37mPOST /api/search?_t=0.9573911878148191 HTTP/1.1[0m" 200 -
+[2019-05-07 17:20:58] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:20:58] "[37mPOST /api/search?_t=0.5905513971663128 HTTP/1.1[0m" 200 -
+[2019-05-07 17:26:28] INFO [werkzeug:88]  * Detected change in '/Users/restran/Dropbox/Python/note_search/index.py', reloading
+[2019-05-07 17:26:29] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-07 17:26:31] WARNING [__main__:84] server is running on 127.0.0.1:5000
+[2019-05-07 17:26:31] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-07 17:26:31] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-07 17:26:42] INFO [werkzeug:88]  * Detected change in '/Users/restran/Dropbox/Python/note_search/index.py', reloading
+[2019-05-07 17:26:42] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-07 17:26:44] WARNING [__main__:84] server is running on 127.0.0.1:5000
+[2019-05-07 17:26:44] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-07 17:26:44] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-07 17:29:36] INFO [werkzeug:88]  * Detected change in '/Users/restran/Dropbox/Python/note_search/app.py', reloading
+[2019-05-07 17:29:36] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-07 17:29:38] WARNING [__main__:85] server is running on 127.0.0.1:5000
+[2019-05-07 17:29:38] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-07 17:29:38] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-07 17:30:38] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:30:38] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 17:30:41] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:30:41] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 17:31:10] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:31:10] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 17:31:10] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:31:10] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 17:31:10] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:31:10] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 17:31:10] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:31:10] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 17:31:10] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:31:10] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:31:10] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:31:10] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:31:10] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:31:10] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:31:10] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:31:10] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:31:10] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:31:10] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:31:10] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:31:10] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 17:31:10] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:31:10] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 17:31:10] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:31:10] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 17:31:14] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:31:14] "[37mPOST /api/search?_t=0.14108825352065302 HTTP/1.1[0m" 200 -
+[2019-05-07 17:31:20] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:31:20] "[37mPOST /api/search?_t=0.4471257067808636 HTTP/1.1[0m" 200 -
+[2019-05-07 17:31:25] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:31:25] "[37mPOST /api/search?_t=0.5298129104948124 HTTP/1.1[0m" 200 -
+[2019-05-07 17:31:29] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:31:29] "[37mPOST /api/search?_t=0.12224589782452844 HTTP/1.1[0m" 200 -
+[2019-05-07 17:31:32] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:31:32] "[37mPOST /api/search?_t=0.12476164433335435 HTTP/1.1[0m" 200 -
+[2019-05-07 17:31:34] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:31:34] "[37mPOST /api/search?_t=0.9229364306637489 HTTP/1.1[0m" 200 -
+[2019-05-07 17:31:40] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:31:40] "[37mPOST /api/search?_t=0.49279744064993847 HTTP/1.1[0m" 200 -
+[2019-05-07 17:31:43] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:31:43] "[37mPOST /api/search?_t=0.7766720450922922 HTTP/1.1[0m" 200 -
+[2019-05-07 17:31:48] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:31:48] "[37mPOST /api/search?_t=0.37907729763431264 HTTP/1.1[0m" 200 -
+[2019-05-07 17:31:52] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:31:52] "[37mPOST /api/search?_t=0.8675031037058865 HTTP/1.1[0m" 200 -
+[2019-05-07 17:32:22] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:32:22] "[37mPOST /api/search?_t=0.029540505522529736 HTTP/1.1[0m" 200 -
+[2019-05-07 17:32:23] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:32:23] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 17:32:23] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:32:23] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 17:32:23] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:32:23] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 17:32:23] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:32:23] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:32:23] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:32:23] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:32:23] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:32:23] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 17:32:23] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:32:23] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:32:23] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:32:23] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:32:23] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:32:23] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:32:23] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:32:23] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 17:32:23] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:32:23] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 17:32:23] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:32:23] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 17:32:25] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:32:25] "[37mPOST /api/search?_t=0.3984652119392291 HTTP/1.1[0m" 200 -
+[2019-05-07 17:37:20] INFO [werkzeug:88]  * Detected change in '/Users/restran/Dropbox/Python/note_search/index.py', reloading
+[2019-05-07 17:37:20] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-07 17:37:22] WARNING [__main__:85] server is running on 127.0.0.1:5000
+[2019-05-07 17:37:22] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-07 17:37:22] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-07 17:43:05] INFO [werkzeug:88]  * Detected change in '/Users/restran/Dropbox/Python/note_search/index.py', reloading
+[2019-05-07 17:43:05] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-07 17:43:07] WARNING [__main__:85] server is running on 127.0.0.1:5000
+[2019-05-07 17:43:07] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-07 17:43:07] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-07 17:45:01] INFO [werkzeug:88]  * Detected change in '/Users/restran/Dropbox/Python/note_search/index.py', reloading
+[2019-05-07 17:45:01] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-07 17:45:03] WARNING [__main__:85] server is running on 127.0.0.1:5000
+[2019-05-07 17:45:03] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-07 17:45:03] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-07 17:48:32] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:48:32] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 17:48:32] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:48:32] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 17:48:32] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:48:32] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 17:48:32] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:48:32] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:48:32] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:48:32] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:48:32] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:48:32] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 17:48:32] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:48:32] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:48:32] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:48:32] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:48:32] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:48:32] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:48:32] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:48:32] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 17:48:32] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:48:32] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 17:48:32] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:48:32] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 17:48:35] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:48:35] "[37mPOST /api/search?_t=0.9572971470886154 HTTP/1.1[0m" 200 -
+[2019-05-07 17:49:06] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:49:06] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 17:49:06] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:49:06] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 17:49:06] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:49:06] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 17:49:06] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:49:06] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 17:49:06] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:49:06] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:49:06] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:49:06] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:49:06] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:49:06] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:49:06] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:49:06] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:49:06] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:49:06] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:49:06] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:49:06] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 17:49:06] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:49:06] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 17:49:06] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:49:06] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 17:49:19] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:49:19] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 17:49:19] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:49:19] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 17:49:19] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:49:19] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 17:49:19] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:49:19] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:49:19] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:49:19] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:49:19] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:49:19] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 17:49:19] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:49:19] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:49:19] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:49:19] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:49:19] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:49:19] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:49:19] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:49:19] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 17:49:19] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:49:19] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 17:49:19] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:49:19] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 17:49:22] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:49:22] "[37mPOST /api/search?_t=0.5770107146933063 HTTP/1.1[0m" 200 -
+[2019-05-07 17:50:11] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:50:11] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 17:50:11] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:50:11] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 17:50:11] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:50:11] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 17:50:11] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:50:11] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:50:11] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:50:11] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 17:50:11] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:50:11] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:50:11] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:50:11] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:50:11] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:50:11] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:50:11] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:50:11] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:50:11] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:50:11] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 17:50:11] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:50:11] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 17:50:11] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:50:11] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 17:50:13] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:50:13] "[37mPOST /api/search?_t=0.43436240229573553 HTTP/1.1[0m" 200 -
+[2019-05-07 17:50:23] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:50:23] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-07 17:50:23] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:50:23] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-07 17:50:23] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:50:23] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-07 17:50:23] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:50:23] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-07 17:50:23] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:50:23] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:50:23] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:50:23] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:50:23] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:50:23] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:50:23] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:50:23] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:50:23] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:50:23] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-07 17:50:23] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:50:23] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-07 17:50:23] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:50:23] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-07 17:50:23] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:50:23] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-07 17:50:26] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:50:26] "[37mPOST /api/search?_t=0.33465728860783983 HTTP/1.1[0m" 200 -
+[2019-05-07 17:50:52] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:50:52] "[37mPOST /api/search?_t=0.6070602824676521 HTTP/1.1[0m" 200 -
+[2019-05-07 17:51:10] INFO [werkzeug:88] 127.0.0.1 - - [07/May/2019 17:51:10] "[37mPOST /api/search?_t=0.9711666360277873 HTTP/1.1[0m" 200 -
+[2019-05-07 17:52:45] INFO [werkzeug:88]  * Detected change in '/Users/restran/Dropbox/Python/note_search/app.py', reloading
+[2019-05-07 17:52:45] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-08 08:48:05] WARNING [__main__:111] server is running on 127.0.0.1:5000
+[2019-05-08 08:48:05] INFO [werkzeug:88]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2019-05-08 08:48:05] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-08 08:48:07] WARNING [__main__:111] server is running on 127.0.0.1:5000
+[2019-05-08 08:48:07] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-08 08:48:07] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-08 08:48:08] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:48:08] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-08 08:48:08] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:48:08] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-08 08:48:08] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:48:08] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-08 08:48:08] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:48:08] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-08 08:48:08] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:48:08] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-08 08:48:08] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:48:08] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-08 08:48:08] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:48:08] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-08 08:48:08] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:48:08] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-08 08:48:08] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:48:08] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-08 08:48:08] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:48:08] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-08 08:48:08] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:48:08] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-08 08:48:08] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:48:08] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-08 08:48:12] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:48:12] "[1m[35mPOST /api/search?_t=0.32413930799704027 HTTP/1.1[0m" 500 -
+[2019-05-08 08:53:01] WARNING [__main__:113] server is running on 127.0.0.1:5000
+[2019-05-08 08:53:01] INFO [werkzeug:88]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2019-05-08 08:53:01] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-08 08:53:03] WARNING [__main__:113] server is running on 127.0.0.1:5000
+[2019-05-08 08:53:03] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-08 08:53:03] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-08 08:53:05] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:05] "[37mPOST /api/search?_t=0.3931481346939609 HTTP/1.1[0m" 200 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[37mGET /1ab4b8ce-ce2d-478b-9cf5-1204cb426f79 HTTP/1.1[0m" 200 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/29.css HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/header_master_top.css HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/base.css HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/share_style1_32.css HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/fck_editorarea.css HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/shCoreDefault.css HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/blog_top.css HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/head_blog_sibebar_logo.gif HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/top_bg_xian.gif HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/top_shequ.gif HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/nav_ico1.gif HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/vip_grey2.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/avatar.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/blog_match_endlook.jpg HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/wKioL1kxBvqDXivDAAA4F7mg1So675.jpg HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/wKioL1k_SpejGPpUAAA3gnotfPU742.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/1304672337_index.jpg HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/1306310178_index.jpg HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/avatar_2.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/avatar_3.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/avatar_4.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/avatar_5.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/avatar_6.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/avatar_7.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/avatar_8.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/avatar_9.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/shCoreDefault.css HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/avatar_10.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/tubiao3.gif HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/artType01.jpg HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/ssk.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/143125628.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/favorite_add_small.gif HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/icon01_2.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/lg.gif HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/copyright.jpg HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/wKiom1k-Wz6DbAw-AAAQL3nX74k572.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/blog_top.css HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:06] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:06] "[33mGET /index_files/get-station-ads HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:07] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:07] "[33mGET /index_files/tops.jpg HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:07] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:07] "[33mGET /index_files/anchor_qq.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:07] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:07] "[33mGET /index_files/gaozhao.jpg HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:07] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:07] "[33mGET /index_files/pageview.php HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:31] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-08 08:53:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:31] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-08 08:53:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:31] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-08 08:53:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:31] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-08 08:53:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:31] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-08 08:53:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:31] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-08 08:53:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:31] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-08 08:53:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:31] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-08 08:53:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:31] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-08 08:53:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:31] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:31] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-08 08:53:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:31] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-08 08:53:32] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:32] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-08 08:53:32] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:32] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-08 08:53:32] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:32] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-08 08:53:32] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:32] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-08 08:53:32] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:32] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-08 08:53:32] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:32] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-08 08:53:32] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:32] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-08 08:53:32] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:32] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-08 08:53:32] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:32] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-08 08:53:32] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:32] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:32] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:32] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-08 08:53:32] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:32] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-08 08:53:34] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:34] "[37mPOST /api/search?_t=0.31526458692982273 HTTP/1.1[0m" 200 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[37mGET /1ab4b8ce-ce2d-478b-9cf5-1204cb426f79 HTTP/1.1[0m" 200 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/29.css HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/header_master_top.css HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/base.css HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/share_style1_32.css HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/head_blog_sibebar_logo.gif HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/top_bg_xian.gif HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/fck_editorarea.css HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/shCoreDefault.css HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/blog_top.css HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/top_shequ.gif HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/nav_ico1.gif HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/vip_grey2.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/avatar.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/blog_match_endlook.jpg HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/wKioL1kxBvqDXivDAAA4F7mg1So675.jpg HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/wKioL1k_SpejGPpUAAA3gnotfPU742.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/1304672337_index.jpg HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/1306310178_index.jpg HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/avatar_2.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/avatar_3.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/avatar_4.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/avatar_5.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/avatar_6.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/avatar_7.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/avatar_8.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/avatar_9.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/avatar_10.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/tubiao3.gif HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/shCoreDefault.css HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/artType01.jpg HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/143125628.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/ssk.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/favorite_add_small.gif HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/icon01_2.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/lg.gif HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/copyright.jpg HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/wKiom1k-Wz6DbAw-AAAQL3nX74k572.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/blog_top.css HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/get-station-ads HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/tops.jpg HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/anchor_qq.png HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/gaozhao.jpg HTTP/1.1[0m" 404 -
+[2019-05-08 08:53:35] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 08:53:35] "[33mGET /index_files/pageview.php HTTP/1.1[0m" 404 -
+[2019-05-08 08:54:00] INFO [werkzeug:88]  * Detected change in '/Users/restran/Dropbox/Python/note_search/app.py', reloading
+[2019-05-08 08:54:00] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-08 09:05:17] WARNING [__main__:136] server is running on 127.0.0.1:5000
+[2019-05-08 09:05:17] INFO [werkzeug:88]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2019-05-08 09:05:17] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-08 09:05:19] WARNING [__main__:136] server is running on 127.0.0.1:5000
+[2019-05-08 09:05:19] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-08 09:05:19] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-08 09:05:22] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:05:22] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-08 09:05:22] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:05:22] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:05:22] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:05:22] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:05:22] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:05:22] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-08 09:05:22] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:05:22] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-08 09:05:22] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:05:22] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:05:22] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:05:22] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-08 09:05:22] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:05:22] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-08 09:05:22] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:05:22] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-08 09:05:22] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:05:22] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-08 09:05:22] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:05:22] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-08 09:05:22] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:05:22] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-08 09:05:25] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:05:25] "[37mPOST /api/search?_t=0.8924959498416556 HTTP/1.1[0m" 200 -
+[2019-05-08 09:05:27] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:05:27] "[37mGET /document/7cb616ee-3e47-4fff-a36c-896e43c3e469/undefined HTTP/1.1[0m" 200 -
+[2019-05-08 09:05:27] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:05:27] "[33mGET /document/7cb616ee-3e47-4fff-a36c-896e43c3e469/index_files/fonts_62.css HTTP/1.1[0m" 404 -
+[2019-05-08 09:05:27] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:05:27] "[33mGET /document/7cb616ee-3e47-4fff-a36c-896e43c3e469/index_files/fonts_60.css HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:08] INFO [werkzeug:88]  * Detected change in '/Users/restran/Dropbox/Python/note_search/index.py', reloading
+[2019-05-08 09:06:08] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-08 09:06:10] WARNING [__main__:136] server is running on 127.0.0.1:5000
+[2019-05-08 09:06:10] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-08 09:06:10] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-08 09:06:12] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:12] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-08 09:06:12] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:12] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:06:12] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:12] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:06:12] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:12] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:06:12] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:12] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-08 09:06:12] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:12] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-08 09:06:12] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:12] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-08 09:06:12] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:12] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-08 09:06:12] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:12] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-08 09:06:12] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:12] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:12] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:12] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-08 09:06:12] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:12] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-08 09:06:16] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:16] "[37mPOST /api/search?_t=0.17238669139816132 HTTP/1.1[0m" 200 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129 HTTP/1.1[0m" 200 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.46539194439120757.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.3103975468710034.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.2530973698300729.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.04665486811186592.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.40446752071394654.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.9878452094386665.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.11724392456515376.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.15302086609179844.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.32391660575166603.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.10609073196260344.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.5925510893581127.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.0322718405091833.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.6225605708922175.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.26978164661681703.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.2484871890560454.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.4923729745962151.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.8539205970268131.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.4849513018627394.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.4725992678460973.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.6207297558024563.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.14871829747689502.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.16641585709558315.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.5391536429289787.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.0187099152206045.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.9181281706645237.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.8237697964276489.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.2225478865339665.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.31573455352365176.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.08682127955521612.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.18691436697084707.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.7090282187182073.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.7993328789313605.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.8763476827303833.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.19173090063817422.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.6744454813780281.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.061088914723073096.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.6595048999223878.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.5786601190011691.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.802121196943907.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.4648006136871159.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.9515027873214283.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.6938665693026163.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.2127745476579017.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.17918505201817014.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.8025997338715263.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:17] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:17] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.09511746975173607.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:33] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:33] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129 HTTP/1.1[0m" 200 -
+[2019-05-08 09:06:33] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:33] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.46539194439120757.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:33] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:33] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.3103975468710034.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:33] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:33] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.2530973698300729.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:33] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:33] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.04665486811186592.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:33] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:33] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.40446752071394654.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:33] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:33] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.9878452094386665.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:33] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:33] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.11724392456515376.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:33] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:33] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.15302086609179844.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:33] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:33] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.32391660575166603.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:33] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:33] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.10609073196260344.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:33] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:33] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.5925510893581127.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:33] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:33] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.0322718405091833.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:33] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:33] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.6225605708922175.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:33] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:33] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.26978164661681703.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:33] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:33] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.2484871890560454.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:33] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:33] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.4923729745962151.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:33] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:33] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.8539205970268131.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:33] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:33] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.4849513018627394.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:33] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:33] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.4725992678460973.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:33] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:33] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.6207297558024563.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:33] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:33] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.14871829747689502.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:33] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:33] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.16641585709558315.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:33] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:33] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.5391536429289787.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:33] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:33] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.0187099152206045.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:33] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:33] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.9181281706645237.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:33] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:33] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.8237697964276489.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:33] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:33] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.2225478865339665.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:33] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:33] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.31573455352365176.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:33] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:33] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.08682127955521612.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:34] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:34] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.18691436697084707.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:34] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:34] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.7090282187182073.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:34] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:34] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.7993328789313605.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:34] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:34] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.8763476827303833.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:34] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:34] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.19173090063817422.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:34] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:34] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.6744454813780281.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:34] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:34] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.061088914723073096.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:34] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:34] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.6595048999223878.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:34] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:34] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.5786601190011691.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:34] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:34] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.802121196943907.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:34] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:34] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.4648006136871159.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:34] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:34] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.9515027873214283.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:34] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:34] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.6938665693026163.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:34] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:34] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.2127745476579017.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:34] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:34] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.17918505201817014.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:34] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:34] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.8025997338715263.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:06:34] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:06:34] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.09511746975173607.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:56] INFO [werkzeug:88]  * Detected change in '/Users/restran/Dropbox/Python/note_search/app.py', reloading
+[2019-05-08 09:07:56] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-08 09:07:58] WARNING [__main__:152] server is running on 127.0.0.1:5000
+[2019-05-08 09:07:58] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-08 09:07:58] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129 HTTP/1.1[0m" 200 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.46539194439120757.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.3103975468710034.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.2530973698300729.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.04665486811186592.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.40446752071394654.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.9878452094386665.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.11724392456515376.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.15302086609179844.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.32391660575166603.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.10609073196260344.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.5925510893581127.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.0322718405091833.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.6225605708922175.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.26978164661681703.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.2484871890560454.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.4923729745962151.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.8539205970268131.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.4849513018627394.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.4725992678460973.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.6207297558024563.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.14871829747689502.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.16641585709558315.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.5391536429289787.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.0187099152206045.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.9181281706645237.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.8237697964276489.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.2225478865339665.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.31573455352365176.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.08682127955521612.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.18691436697084707.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.7090282187182073.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.7993328789313605.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.8763476827303833.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.19173090063817422.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.6744454813780281.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.061088914723073096.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.6595048999223878.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.5786601190011691.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.802121196943907.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.4648006136871159.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.9515027873214283.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.6938665693026163.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.2127745476579017.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.17918505201817014.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.8025997338715263.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:07:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:07:58] "[33mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/index_files/0.09511746975173607.png HTTP/1.1[0m" 404 -
+[2019-05-08 09:08:28] INFO [werkzeug:88]  * Detected change in '/Users/restran/Dropbox/Python/note_search/app.py', reloading
+[2019-05-08 09:08:28] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-08 09:08:30] WARNING [__main__:152] server is running on 127.0.0.1:5000
+[2019-05-08 09:08:30] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-08 09:08:30] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/ HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.46539194439120757.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.3103975468710034.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.2530973698300729.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.04665486811186592.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.40446752071394654.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.9878452094386665.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.11724392456515376.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.15302086609179844.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.32391660575166603.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.10609073196260344.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.5925510893581127.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.0322718405091833.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.26978164661681703.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.6225605708922175.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.2484871890560454.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.4923729745962151.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.8539205970268131.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.4849513018627394.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.4725992678460973.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.6207297558024563.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.14871829747689502.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.16641585709558315.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.5391536429289787.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.0187099152206045.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.9181281706645237.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.8237697964276489.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.2225478865339665.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.31573455352365176.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.08682127955521612.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.7090282187182073.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.18691436697084707.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.7993328789313605.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.8763476827303833.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.19173090063817422.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.6744454813780281.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.061088914723073096.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.5786601190011691.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.6595048999223878.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.802121196943907.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.4648006136871159.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.9515027873214283.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.2127745476579017.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.6938665693026163.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.17918505201817014.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.8025997338715263.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.09511746975173607.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:31] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:31] "[37mGET /document/1deb4d86-962d-4d73-98a6-051f2ff664fc/13129/index_files/0.18691436697084707.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:36] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:36] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:36] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:36] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:36] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:36] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:36] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:36] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:36] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:36] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:36] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:36] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:36] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:36] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:36] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:36] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:36] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:36] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:36] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:36] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-08 09:08:37] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:37] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:37] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:37] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:39] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:39] "[37mPOST /api/search?_t=0.12296543488320477 HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:41] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:41] "[37mGET /document/57dc12e8-0506-4ebc-8f23-7c5c24e73c1c/13661/ HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:41] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:41] "[37mGET /document/57dc12e8-0506-4ebc-8f23-7c5c24e73c1c/13661/index_files/0.08385074645782753.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:41] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:41] "[37mGET /document/57dc12e8-0506-4ebc-8f23-7c5c24e73c1c/13661/index_files/0.34410473930630703.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:41] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:41] "[37mGET /document/57dc12e8-0506-4ebc-8f23-7c5c24e73c1c/13661/index_files/0.27755943948989614.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:41] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:41] "[37mGET /document/57dc12e8-0506-4ebc-8f23-7c5c24e73c1c/13661/index_files/0.6653197058279754.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:41] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:41] "[37mGET /document/57dc12e8-0506-4ebc-8f23-7c5c24e73c1c/13661/index_files/0.6953996633450741.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:41] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:41] "[37mGET /document/57dc12e8-0506-4ebc-8f23-7c5c24e73c1c/13661/index_files/0.5225081092610027.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:08:41] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:08:41] "[37mGET /document/57dc12e8-0506-4ebc-8f23-7c5c24e73c1c/13661/index_files/0.04478620925304355.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:09:15] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:09:15] "[37mPOST /api/search?_t=0.2845521095439758 HTTP/1.1[0m" 200 -
+[2019-05-08 09:09:44] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:09:44] "[37mGET /document/9eac44dc-eb75-4e0c-ac49-31e4c89a1cc5/14789/ HTTP/1.1[0m" 200 -
+[2019-05-08 09:10:36] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:10:36] "[37mGET /document/78c4b64c-c630-47f2-9b18-2434c6279d73/10975/ HTTP/1.1[0m" 200 -
+[2019-05-08 09:10:36] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:10:36] "[37mGET /document/78c4b64c-c630-47f2-9b18-2434c6279d73/10975/index_files/fonts_2.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:10:36] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:10:36] "[37mGET /document/78c4b64c-c630-47f2-9b18-2434c6279d73/10975/index_files/fonts_141.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:10:36] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:10:36] "[37mGET /document/78c4b64c-c630-47f2-9b18-2434c6279d73/10975/index_files/fonts_184.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:10:36] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:10:36] "[37mGET /document/78c4b64c-c630-47f2-9b18-2434c6279d73/10975/index_files/wiz_code_highlight_98.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:10:36] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:10:36] "[37mGET /document/78c4b64c-c630-47f2-9b18-2434c6279d73/10975/index_files/fonts_120.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:10:36] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:10:36] "[37mGET /document/78c4b64c-c630-47f2-9b18-2434c6279d73/10975/index_files/5a652cb3-b731-4ecc-90a1-b43d9eed7470.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:10:50] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:10:50] "[37mGET /document/78c4b64c-c630-47f2-9b18-2434c6279d73/10975/index_files/fonts_141.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:10:50] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:10:50] "[37mGET /document/78c4b64c-c630-47f2-9b18-2434c6279d73/10975/index_files/fonts_2.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:10:50] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:10:50] "[37mGET /document/78c4b64c-c630-47f2-9b18-2434c6279d73/10975/index_files/fonts_184.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:10:50] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:10:50] "[37mGET /document/78c4b64c-c630-47f2-9b18-2434c6279d73/10975/index_files/wiz_code_highlight_98.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:10:50] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:10:50] "[37mGET /document/78c4b64c-c630-47f2-9b18-2434c6279d73/10975/index_files/fonts_120.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:10:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:10:58] "[37mGET /document/9d28cfd3-addf-4876-a71e-a7be1fa188b0/11035/ HTTP/1.1[0m" 200 -
+[2019-05-08 09:10:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:10:58] "[37mGET /document/9d28cfd3-addf-4876-a71e-a7be1fa188b0/11035/index_files/fonts_62.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:10:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:10:58] "[37mGET /document/9d28cfd3-addf-4876-a71e-a7be1fa188b0/11035/index_files/fonts_64.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:10:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:10:58] "[37mGET /document/9d28cfd3-addf-4876-a71e-a7be1fa188b0/11035/index_files/fonts_66.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:10:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:10:58] "[37mGET /document/9d28cfd3-addf-4876-a71e-a7be1fa188b0/11035/index_files/fonts_78.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:10:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:10:58] "[37mGET /document/9d28cfd3-addf-4876-a71e-a7be1fa188b0/11035/index_files/wiz_code_highlight_59.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:10:58] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:10:58] "[37mGET /document/9d28cfd3-addf-4876-a71e-a7be1fa188b0/11035/index_files/fonts_95.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:12:21] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:12:21] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-08 09:12:25] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:12:25] "[37mPOST /api/search?_t=0.836308106770731 HTTP/1.1[0m" 200 -
+[2019-05-08 09:12:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:12:26] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-08 09:12:28] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:12:28] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-08 09:12:28] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:12:28] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:12:28] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:12:28] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:12:28] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:12:28] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:12:28] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:12:28] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-08 09:12:28] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:12:28] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-08 09:12:28] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:12:28] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-08 09:12:28] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:12:28] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-08 09:12:28] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:12:28] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-08 09:12:28] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:12:28] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-08 09:12:28] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:12:28] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-08 09:12:28] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:12:28] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-08 09:13:16] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:13:16] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-08 09:13:16] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:13:16] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:13:16] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:13:16] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:13:16] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:13:16] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:13:16] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:13:16] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-08 09:13:16] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:13:16] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-08 09:13:16] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:13:16] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-08 09:13:16] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:13:16] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-08 09:13:16] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:13:16] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-08 09:13:16] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:13:16] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-08 09:13:16] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:13:16] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-08 09:13:16] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:13:16] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-08 09:13:40] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:13:40] "[37mGET / HTTP/1.1[0m" 200 -
+[2019-05-08 09:13:40] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:13:40] "[37mGET /static/vendors/element-ui/index.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:13:40] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:13:40] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:13:40] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:13:40] "[37mGET /static/css/fontello.css HTTP/1.1[0m" 200 -
+[2019-05-08 09:13:40] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:13:40] "[37mGET /static/vendors/vue.min.js HTTP/1.1[0m" 200 -
+[2019-05-08 09:13:40] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:13:40] "[37mGET /static/vendors/axios.min.js HTTP/1.1[0m" 200 -
+[2019-05-08 09:13:40] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:13:40] "[37mGET /static/vendors/element-ui/index.js HTTP/1.1[0m" 200 -
+[2019-05-08 09:13:40] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:13:40] "[37mGET /static/vendors/vue-progressbar.js HTTP/1.1[0m" 200 -
+[2019-05-08 09:13:40] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:13:40] "[37mGET /static/js/main.js HTTP/1.1[0m" 200 -
+[2019-05-08 09:13:40] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:13:40] "[33mGET /static/vendors/axios.min.map HTTP/1.1[0m" 404 -
+[2019-05-08 09:13:40] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:13:40] "[37mGET /static/vendors/element-ui/fonts/element-icons.woff HTTP/1.1[0m" 200 -
+[2019-05-08 09:13:40] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:13:40] "[37mGET /static/font/fontello.woff2?37371488 HTTP/1.1[0m" 200 -
+[2019-05-08 09:13:45] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:13:45] "[37mPOST /api/search?_t=0.049906448212453824 HTTP/1.1[0m" 200 -
+[2019-05-08 09:13:52] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:13:52] "[33mGET /1ab4b8ce-ce2d-478b-9cf5-1204cb426f79 HTTP/1.1[0m" 404 -
+[2019-05-08 09:14:00] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:00] "[37mPOST /api/search?_t=0.0612960994814955 HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:04] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:04] "[37mPOST /api/search?_t=0.7318854353568574 HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:07] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:07] "[37mPOST /api/search?_t=0.8802690905082151 HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:13] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:13] "[37mPOST /api/search?_t=0.9634248822233555 HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/ HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image00151653d41-17d9-42c2-a360-c120ca1a3522.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image002bd32dcdc-b320-47a7-a1e0-ece0250bad7f.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image00462a13269-d6c2-4e73-bea3-4bc9197c413a.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image003b8857928-8505-46f4-b676-6112f61ab04a.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image006f473ddb8-8f83-4b61-a429-5e94b79f6ad4.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image005cc54d1be-6850-4d1c-9eb6-c2402f870c34.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image007387415b7-0e7e-4fe4-b855-c3636028cdee.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image0083588e915-57c6-4a3d-81a4-b29ab2ced76f.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image00952c6a5a1-75d7-4648-b9ff-1014445f5a4a.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image010e79c48d6-2cb7-48e9-aeca-9f70645ba2f2.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image0116374103f-f86c-4609-9aa0-0f6f070092a0.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image012d4009369-c20d-468d-9552-8784355b791c.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image013f2db8b68-6354-4d25-b3a2-398e604c622d.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image016c9719dbf-4f08-4103-83c2-2a8594188230.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image0142def9b2c-24da-4504-9d92-177c99a94ec2.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image015117be639-aafd-4bbf-a129-c12783281743.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image0170f210a81-da17-47e9-b003-026ad5006ac7.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image018aeba21aa-6fa7-4111-98e5-aefea5e4b07c.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image019e7ee90c6-32a2-4994-925d-749548f25815.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image020f5593904-731b-45aa-b844-fa85cb1f2524.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image022a9af89ec-ef94-480e-8448-297c651e4276.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image021ca644d59-702b-4a2d-bd77-864abb2c6dde.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image023bd0b1061-9882-4d67-aab0-508c5f50cc00.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image0241168711c-e8e6-4c9e-8b15-111efef2b2fb.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image02521d91444-e0eb-47bb-93a9-6188c072b493.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image0263d119587-9bbe-4eb9-b847-b8431ed397d0.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image027774a9de0-2af2-47a5-b5bc-c8f4e715a558.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image0284865564d-a478-44a3-bba0-d4fc68529478.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image029c8b109e5-a871-416d-8f1a-69b343e43c7a.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image030522245ad-5003-4864-8a6b-03655a12de06.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image0320397b0e5-fe39-42d6-8ec0-98cbf212b758.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image0315b2d9fa6-c7de-4b58-80c6-53b50c450505.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image033e79568b0-e6af-4caa-9776-b3d99fa29118.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image0361de5c56f-83ad-4197-a547-01edf9bfec4f.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image0371e86fc24-0e33-4a48-bfdf-37b24ff55f63.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image0381592af17-f85f-4817-8178-b50bb166280d.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image039dbf0ce10-5b92-4e89-a32a-384ad4cb7596.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:26] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:26] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image04015ef1de9-0b78-4dd8-9773-5f35c3157cba.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:27] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:27] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image0412960e036-7c31-4286-981a-be579d056d7d.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:27] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:27] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image043fb9741af-d865-47d2-a7e9-069e8604130b.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:27] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:27] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image044143eee26-c34d-439f-a45f-a50d4097ff41.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:27] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:27] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image042ada9821a-b211-49a1-b2aa-9ae7ec368afd.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:27] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:27] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image045a5435663-f65e-4968-b9e2-ed7c93ee4ee4.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:14:27] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:14:27] "[37mGET /document/453872ea-b961-46fd-a3e5-ef0f9c309335/7208/index_files/clip_image046ca7cdf4b-0ef1-4746-b9fc-ef026b1f9cae.png HTTP/1.1[0m" 200 -
+[2019-05-08 09:16:51] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 09:16:51] "[37mPOST /api/search?_t=0.505948613629706 HTTP/1.1[0m" 200 -
+[2019-05-08 10:01:37] WARNING [__main__:147] server is running on 127.0.0.1:5000
+[2019-05-08 10:01:37] INFO [werkzeug:88]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2019-05-08 10:01:37] INFO [werkzeug:88]  * Restarting with stat
+[2019-05-08 10:01:39] WARNING [__main__:147] server is running on 127.0.0.1:5000
+[2019-05-08 10:01:39] WARNING [werkzeug:88]  * Debugger is active!
+[2019-05-08 10:01:39] INFO [werkzeug:88]  * Debugger PIN: 338-320-493
+[2019-05-08 10:01:42] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 10:01:42] "[37mPOST /api/search?_t=0.9805288648226127 HTTP/1.1[0m" 200 -
+[2019-05-08 10:01:55] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 10:01:55] "[37mPOST /api/search?_t=0.2088354767381786 HTTP/1.1[0m" 200 -
+[2019-05-08 10:02:02] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 10:02:02] "[37mPOST /api/search?_t=0.4855552027884653 HTTP/1.1[0m" 200 -
+[2019-05-08 10:02:09] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 10:02:09] "[37mPOST /api/search?_t=0.9992902609384642 HTTP/1.1[0m" 200 -
+[2019-05-08 10:02:19] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 10:02:19] "[37mPOST /api/search?_t=0.9134311226584648 HTTP/1.1[0m" 200 -
+[2019-05-08 10:02:29] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 10:02:29] "[37mPOST /api/search?_t=0.7730319510232067 HTTP/1.1[0m" 200 -
+[2019-05-08 10:03:30] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 10:03:30] "[37mPOST /api/search?_t=0.32126659064195384 HTTP/1.1[0m" 200 -
+[2019-05-08 10:03:33] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 10:03:33] "[37mPOST /api/search?_t=0.18263837374026393 HTTP/1.1[0m" 200 -
+[2019-05-08 10:03:37] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 10:03:37] "[37mPOST /api/search?_t=0.2117028584724736 HTTP/1.1[0m" 200 -
+[2019-05-08 10:03:40] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 10:03:40] "[37mPOST /api/search?_t=0.649274318838372 HTTP/1.1[0m" 200 -
+[2019-05-08 10:03:46] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 10:03:46] "[37mPOST /api/search?_t=0.7426260924404005 HTTP/1.1[0m" 200 -
+[2019-05-08 10:04:05] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 10:04:05] "[37mPOST /api/search?_t=0.6611698499910437 HTTP/1.1[0m" 200 -
+[2019-05-08 10:04:16] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 10:04:16] "[37mPOST /api/search?_t=0.07838785802575443 HTTP/1.1[0m" 200 -
+[2019-05-08 10:04:37] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 10:04:37] "[37mPOST /api/search?_t=0.511664777847725 HTTP/1.1[0m" 200 -
+[2019-05-08 10:04:42] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 10:04:42] "[37mPOST /api/search?_t=0.11025041846068162 HTTP/1.1[0m" 200 -
+[2019-05-08 10:04:45] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 10:04:45] "[37mPOST /api/search?_t=0.2802110731109886 HTTP/1.1[0m" 200 -
+[2019-05-08 10:04:54] INFO [werkzeug:88] 127.0.0.1 - - [08/May/2019 10:04:54] "[37mPOST /api/search?_t=0.2753055235243045 HTTP/1.1[0m" 200 -
