@@ -6,3 +6,4 @@ beautifulsoup4
 whoosh
 jieba
 future
+html5lib
