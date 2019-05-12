@@ -89,6 +89,8 @@ def view_document(document_guid, wiz_version):
         item = rows[0]
         zf = zipfile.ZipFile(os.path.join(WIZ_NOTE_PATH, 'notes/{%s}' % document_guid))
         path = 'tmp/{}_{}'.format(document_guid, item['WIZ_VERSION'])
+        if not os.path.exists('tmp'):
+            os.mkdir('tmp')
         if not os.path.exists(path):
             for dir_name in os.listdir('tmp'):
                 if document_guid in dir_name:
