@@ -81,7 +81,8 @@ def view_document(document_guid, wiz_version):
     try:
         wiz_index = get_wiz_index()
         sql = """select * from WIZ_INDEX where DOCUMENT_GUID=:document_guid"""
-        rows = wiz_index.index_db.query(sql, document_guid=document_guid).as_dict()
+        with wiz_index.index_db.get_connection() as conn:
+            rows = conn.query(sql, document_guid=document_guid).as_dict()
         if len(rows) < 0:
             return 'error: 请求的数据不存在'
 

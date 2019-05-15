@@ -35,11 +35,14 @@ class WizIndex(object):
     def __init__(self):
         self.index_db = records.Database('sqlite:///database.db')
         try:
-            self.index_db.query('select * from WIZ_INDEX')
+            with self.index_db.get_connection() as conn:
+                conn.query('select * from WIZ_INDEX')
         except:
             print('create table WIZ_INDEX')
-            self.index_db.query(CREATE_TABLE_SQL)
-            self.index_db.query('PRAGMA auto_vacuum = FULL;')
+            with self.index_db.get_connection() as conn:
+                conn.query(CREATE_TABLE_SQL)
+                conn.query('PRAGMA auto_vacuum = FULL;')
+
             if os.path.exists("data"):
                 shutil.rmtree('data')
 
@@ -63,9 +66,11 @@ class WizIndex(object):
     def get_should_index_data(self):
         wiz_db = records.Database('sqlite:///{}'.format(os.path.join(WIZ_NOTE_PATH, 'index.db')))
         sql = """select * from WIZ_DOCUMENT"""
-        wiz_rows = wiz_db.query(sql).as_dict()
+        with wiz_db.get_connection() as conn:
+            wiz_rows = conn.query(sql).as_dict()
         sql = """select * from WIZ_INDEX"""
-        index_rows = self.index_db.query(sql).as_dict()
+        with self.index_db.get_connection() as conn:
+            index_rows = conn.query(sql).as_dict()
         wiz_dict = {t['DOCUMENT_GUID']: t for t in wiz_rows}
         index_dict = {t['DOCUMENT_GUID']: {'data': t, 'action': 'delete'} for t in index_rows}
         for k, v in wiz_dict.items():
@@ -141,7 +146,8 @@ class WizIndex(object):
                             'DT_MODIFIED': r['DT_MODIFIED'],
                             'WIZ_VERSION': r['WIZ_VERSION']
                         }
-                        self.index_db.query(sql, **params)
+                        with self.index_db.get_connection() as conn:
+                            conn.query(sql, **params)
 
                     except Exception as e:
                         print(e)
@@ -169,7 +175,8 @@ class WizIndex(object):
         document_guid_list = [t['document_guid'] for t in data]
         if len(document_guid_list) > 0:
             sql = """select * from WIZ_INDEX where DOCUMENT_GUID in ('%s')""" % "','".join(document_guid_list)
-            rows = self.index_db.query(sql).as_dict()
+            with self.index_db.get_connection() as conn:
+                rows = conn.query(sql).as_dict()
             guid_dict = {t['DOCUMENT_GUID']: t for t in rows}
             for t in data:
                 item = guid_dict.get(t['document_guid'])

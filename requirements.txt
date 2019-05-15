@@ -1,6 +1,6 @@
 flask
 mountains
-records
+records>=0.5.3
 werkzeug
 beautifulsoup4
 whoosh
