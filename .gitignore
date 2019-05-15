@@ -94,3 +94,5 @@ tmp/*
 data/*
 config.py
 database.db
+
+.vscode

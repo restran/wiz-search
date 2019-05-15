@@ -64,10 +64,11 @@ class WizIndex(object):
         wiz_db = records.Database('sqlite:///{}'.format(os.path.join(WIZ_NOTE_PATH, 'index.db')))
 
         sql = """select * from WIZ_DOCUMENT"""
-        wiz_rows = wiz_db.query(sql).as_dict()
+        with wiz_db.get_connection() as conn:
+            wiz_rows = conn.query(sql).as_dict()
         sql = """select * from WIZ_INDEX"""
-        index_rows = self.index_db.query(sql).as_dict()
-
+        with self.index_db.get_connection() as conn:
+            index_rows = conn.query(sql).as_dict()
         wiz_dict = {t['DOCUMENT_GUID']: t for t in wiz_rows}
         index_dict = {t['DOCUMENT_GUID']: {'data': t, 'action': 'delete'} for t in index_rows}
         for k, v in wiz_dict.items():
@@ -171,7 +172,8 @@ class WizIndex(object):
         document_guid_list = [t['document_guid'] for t in data]
         if len(document_guid_list) > 0:
             sql = """select * from WIZ_INDEX where DOCUMENT_GUID in ('%s')""" % "','".join(document_guid_list)
-            rows = self.index_db.query(sql).as_dict()
+            with self.index_db.get_connection() as conn:
+                rows = conn.query(sql).as_dict()
             guid_dict = {t['DOCUMENT_GUID']: t for t in rows}
             for t in data:
                 item = guid_dict.get(t['document_guid'])
