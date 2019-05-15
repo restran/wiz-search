@@ -36,6 +36,7 @@
                                 <div style="font-size: 14px; color: #666;margin-bottom: 5px">
                                     <span v-text="item['dt_created'] > item['dt_modified'] ? item['dt_created']: item['dt_modified']"></span>
                                     <span v-text="item['document_location']" style="margin-left: 5px"></span>
+                                    <a class="wiz-link" :href="'wiz://open_document?guid='+item['document_guid']+'&kbguid='" style="margin-left: 5px">在为知中打开</a>
                                 </div>
                                 <div v-html="item['highlights']"
                                      style="word-break: break-all;color: #666;font-size: 14px"></div>

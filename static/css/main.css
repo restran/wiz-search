@@ -314,3 +314,17 @@ a {
 .search-result .search-result-item {
     margin-bottom: 10px;
 }
+
+.wiz-link {
+    color: #666;
+}
+
+a.wiz-link {
+    /*text-decoration: none;*/
+    text-decoration-line: underline;
+}
+
+a.wiz-link:hover {
+    text-decoration-line: underline;
+    color: #999;
+}
